@@ -1,4 +1,5 @@
 # nuxt-firebase-ssr-authentication
+Preview link [https://nuxt-fire-auth.herokuapp.com/](https://nuxt-fire-auth.herokuapp.com/)
 
 ## Build Setup
 
